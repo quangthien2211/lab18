@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* section */
+
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  height: 75vh;
+  background-image: url(images/slide_1_bugatti_bolide.webp);
+  background-position: center;
+  margin-top: 56px;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  height: 75vh;
+  background-image: url(images/slide_2_jeep_wrangle.jpg);
+  background-position: center;
+  margin-top: 56px;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  height: 75vh;
+
+  background-image: url(images/slide_3_lamborghini_urus.jpg);
+  background-position: center;
+  margin-top: 56px;
+}
+
+/* footer */
+
+.container-footer {
+  margin: 120px 100px 20px;
+}
